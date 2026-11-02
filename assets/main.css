@@ -263,3 +263,7 @@ body{font-size:16.5px}
 @media(max-width:1240px) and (min-width:901px){.logo img{height:30px}.nav-links>li>a,.nav-links>li>.nav-label{padding:10px 8px;font-size:14px}.site-header .wrap{gap:10px}}
 @media(max-width:480px){.logo img{height:26px}.site-header .wrap{gap:10px}}
 .site-footer a,.site-footer address,.site-footer p,main{overflow-wrap:anywhere}
+.svclist{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.svclist a{font-weight:700;color:var(--rose)}
+.svclist span{display:block;color:var(--gray);font-size:15px;margin-top:2px}
+.finder{padding-top:0}
